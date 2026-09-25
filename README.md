@@ -37,7 +37,7 @@ The following models were trained and evaluated:
 3. Logistic Regression
 4. XGBoost Classifier
 5. Artificial Neural Network (ANN)
-6. Long Short-Term Memory Network (LSTM)
+   
 
 
 ## Evaluation Metrics
@@ -56,8 +56,8 @@ The models were evaluated using:
 - Scikit-learn
 - TensorFlow/Keras
 - XGBoost
-- Matplotlib
-- Seaborn
+  
+  
 
 ## Results
 The performance of different models was compared based on evaluation metrics. The best model was selected based on accuracy and overall classification performance.
